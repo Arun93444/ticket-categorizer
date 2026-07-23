@@ -1,5 +1,5 @@
 # 🎫 AI Support Ticket Classifier
-live demo
+Live
 https://ticket-categorizer-gsd8ihzzm3kuvwyacsbral.streamlit.app/
 ## Overview
 
