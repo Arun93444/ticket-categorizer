@@ -1,0 +1,501 @@
+ticket_id,subject,body,category,priority,source
+1362,Holiday List,Need clarification regarding my salary.,HR,High,Live Chat
+1074,Invoice Missing,The billing amount seems incorrect. Kindly verify.,Billing,Normal,Live Chat
+1375,Joining Date,I have not received my offer letter yet.,HR,High,Email
+1156,Password Reset,The application crashes whenever I try to login.,Technical,High,Portal
+1105,Incorrect Bill,I was charged twice for the same transaction.,Billing,High,Portal
+1395,Need Help,How can I contact customer support?,General,Normal,Portal
+1378,General Enquiry,Need more information about your services.,General,High,Live Chat
+1125,Billing Issue,I was charged twice for the same transaction.,Billing,Normal,Portal
+1069,Subscription Charged,Please share the invoice for Order #24168.,Billing,High,Email
+1451,Product Information,What are your office working hours?,General,High,Live Chat
+1010,Subscription Charged,"Hello Team, my payment of ₹1250 was deducted but the order is still pending.",Billing,Normal,Portal
+1195,Password Reset,The website is not loading since morning.,Technical,High,Live Chat
+1407,Office Timings,Need more information about your services.,General,Normal,Live Chat
+1085,Duplicate Payment,"Hello Team, my payment of ₹13909 was deducted but the order is still pending.",Billing,High,Email
+1372,Holiday List,Need clarification regarding my salary.,HR,High,Live Chat
+1389,Feedback,How can I contact customer support?,General,High,Email
+1496,Feedback,What are your office working hours?,General,High,Email
+1031,Billing Issue,The billing amount seems incorrect. Kindly verify.,Billing,High,Email
+1317,Resignation,Need clarification regarding my salary.,HR,Normal,Live Chat
+1409,Office Timings,What are your office working hours?,General,High,Portal
+1491,Product Information,What are your office working hours?,General,High,Email
+1492,Company Address,Need more information about your services.,General,High,Live Chat
+1281,Joining Date,Kindly send my payslip for this month.,HR,High,Portal
+1357,Payslip Required,Attendance has been marked incorrectly.,HR,High,Email
+1077,Refund Request,"Hello Team, my payment of ₹9018 was deducted but the order is still pending.",Billing,Normal,Portal
+1462,Product Information,Can you share your company address?,General,High,Live Chat
+1498,Contact Information,Can you share your company address?,General,Normal,Live Chat
+1212,Database Error,I am getting a database connection error.,Technical,High,Email
+1102,Duplicate Payment,I was charged twice for the same transaction.,Billing,High,Email
+1335,Offer Letter,Need clarification regarding my salary.,HR,High,Live Chat
+1476,Product Information,How can I contact customer support?,General,High,Portal
+1337,Holiday List,Need clarification regarding my salary.,HR,Normal,Email
+1441,Feedback,Need more information about your services.,General,High,Email
+1174,Unable to Login,The website is not loading since morning.,Technical,High,Email
+1003,Refund Request,"Hello Team, my payment of ₹988 was deducted but the order is still pending.",Billing,Normal,Email
+1334,Offer Letter,I have not received my offer letter yet.,HR,Normal,Portal
+1410,Business Hours,Can you share your company address?,General,High,Portal
+1071,Subscription Charged,I cancelled my subscription but my refund has not been received.,Billing,Normal,Portal
+1210,Password Reset,I am getting a database connection error.,Technical,Normal,Portal
+1064,Invoice Missing,I was charged twice for the same transaction.,Billing,High,Portal
+1385,Office Timings,Can you share your company address?,General,Normal,Portal
+1094,Billing Issue,I cancelled my subscription but my refund has not been received.,Billing,Normal,Live Chat
+1486,General Enquiry,Can you share your company address?,General,Normal,Live Chat
+1186,Website Not Loading,The application crashes whenever I try to login.,Technical,High,Live Chat
+1034,Payment Failed,The billing amount seems incorrect. Kindly verify.,Billing,Normal,Email
+1078,Refund Request,"Hello Team, my payment of ₹11382 was deducted but the order is still pending.",Billing,High,Live Chat
+1001,Refund Pending,"Hello Team, my payment of ₹12649 was deducted but the order is still pending.",Billing,Normal,Email
+1012,Billing Issue,Please share the invoice for Order #58520.,Billing,High,Email
+1416,Contact Information,What are your office working hours?,General,High,Live Chat
+1023,Incorrect Bill,The billing amount seems incorrect. Kindly verify.,Billing,Normal,Live Chat
+1073,Refund Request,The billing amount seems incorrect. Kindly verify.,Billing,Normal,Portal
+1183,Server Down,The website is not loading since morning.,Technical,Normal,Email
+1132,Password Reset,The website is not loading since morning.,Technical,Normal,Portal
+1411,Product Information,Need more information about your services.,General,High,Email
+1194,Application Crash,The application crashes whenever I try to login.,Technical,Normal,Live Chat
+1056,Invoice Missing,I was charged twice for the same transaction.,Billing,High,Live Chat
+1149,Website Not Loading,Password reset link is not working.,Technical,High,Live Chat
+1019,Incorrect Bill,The billing amount seems incorrect. Kindly verify.,Billing,High,Portal
+1205,Network Issue,The application crashes whenever I try to login.,Technical,Normal,Portal
+1079,Refund Pending,Please share the invoice for Order #50538.,Billing,High,Portal
+1495,Need Help,Need more information about your services.,General,High,Portal
+1263,Holiday List,I have not received my offer letter yet.,HR,Normal,Live Chat
+1324,Joining Date,Please approve my leave request for next week.,HR,High,Live Chat
+1484,Business Hours,Please provide your contact details.,General,Normal,Portal
+1080,Refund Request,Please share the invoice for Order #26683.,Billing,Normal,Portal
+1040,Refund Request,Please share the invoice for Order #24322.,Billing,Normal,Email
+1452,Company Address,Can you share your company address?,General,Normal,Live Chat
+1047,Subscription Charged,Please share the invoice for Order #17665.,Billing,Normal,Live Chat
+1239,API Error,Password reset link is not working.,Technical,High,Portal
+1392,Product Information,Need more information about your services.,General,Normal,Portal
+1353,Salary Issue,I have not received my offer letter yet.,HR,High,Portal
+1342,Resignation,Attendance has been marked incorrectly.,HR,High,Live Chat
+1278,Resignation,Kindly send my payslip for this month.,HR,Normal,Live Chat
+1291,Leave Request,Please approve my leave request for next week.,HR,Normal,Email
+1318,Joining Date,I have not received my offer letter yet.,HR,Normal,Live Chat
+1305,Joining Date,I have not received my offer letter yet.,HR,Normal,Portal
+1269,Holiday List,Need clarification regarding my salary.,HR,High,Email
+1070,Billing Issue,I cancelled my subscription but my refund has not been received.,Billing,High,Portal
+1456,Office Timings,Can you share your company address?,General,High,Portal
+1466,General Enquiry,Can you share your company address?,General,Normal,Portal
+1155,Network Issue,The application crashes whenever I try to login.,Technical,High,Portal
+1083,Duplicate Payment,I was charged twice for the same transaction.,Billing,Normal,Live Chat
+1478,Contact Information,Can you share your company address?,General,High,Portal
+1173,Network Issue,Password reset link is not working.,Technical,Normal,Portal
+1322,Joining Date,Kindly send my payslip for this month.,HR,High,Email
+1091,Invoice Missing,I was charged twice for the same transaction.,Billing,High,Portal
+1181,Application Crash,Password reset link is not working.,Technical,Normal,Email
+1415,Company Address,Need more information about your services.,General,High,Email
+1313,Resignation,I have not received my offer letter yet.,HR,Normal,Live Chat
+1279,Joining Date,Please approve my leave request for next week.,HR,Normal,Portal
+1382,Business Hours,What are your office working hours?,General,High,Live Chat
+1473,Contact Information,Please provide your contact details.,General,Normal,Live Chat
+1363,Attendance Correction,Attendance has been marked incorrectly.,HR,High,Portal
+1325,Holiday List,Please approve my leave request for next week.,HR,High,Portal
+1432,Company Address,Can you share your company address?,General,High,Email
+1348,Holiday List,Kindly send my payslip for this month.,HR,High,Live Chat
+1087,Refund Pending,I was charged twice for the same transaction.,Billing,Normal,Live Chat
+1076,Refund Pending,I was charged twice for the same transaction.,Billing,High,Email
+1439,Business Hours,Can you share your company address?,General,High,Live Chat
+1016,Duplicate Payment,I was charged twice for the same transaction.,Billing,Normal,Live Chat
+1250,Password Reset,I am getting a database connection error.,Technical,High,Live Chat
+1434,Product Information,Need more information about your services.,General,High,Portal
+1020,Subscription Charged,I cancelled my subscription but my refund has not been received.,Billing,Normal,Email
+1323,Payslip Required,Kindly send my payslip for this month.,HR,High,Email
+1333,Salary Issue,I have not received my offer letter yet.,HR,High,Live Chat
+1057,Payment Failed,The billing amount seems incorrect. Kindly verify.,Billing,Normal,Email
+1302,Joining Date,Attendance has been marked incorrectly.,HR,Normal,Email
+1230,Unable to Login,I am getting a database connection error.,Technical,High,Live Chat
+1332,Salary Issue,Kindly send my payslip for this month.,HR,Normal,Email
+1133,Unable to Login,The application crashes whenever I try to login.,Technical,Normal,Live Chat
+1138,Server Down,I am getting a database connection error.,Technical,Normal,Email
+1424,Product Information,Please provide your contact details.,General,High,Email
+1336,Payslip Required,Need clarification regarding my salary.,HR,Normal,Email
+1026,Refund Pending,Please share the invoice for Order #93748.,Billing,Normal,Email
+1465,Business Hours,Please provide your contact details.,General,Normal,Live Chat
+1282,Attendance Correction,Attendance has been marked incorrectly.,HR,High,Email
+1248,Server Down,Password reset link is not working.,Technical,High,Email
+1238,Server Down,The application crashes whenever I try to login.,Technical,Normal,Portal
+1118,Invoice Missing,The billing amount seems incorrect. Kindly verify.,Billing,High,Portal
+1043,Refund Pending,"Hello Team, my payment of ₹11184 was deducted but the order is still pending.",Billing,Normal,Email
+1221,Unable to Login,The application crashes whenever I try to login.,Technical,High,Live Chat
+1177,Network Issue,Server is down and users cannot access the application.,Technical,High,Live Chat
+1321,Resignation,Need clarification regarding my salary.,HR,High,Live Chat
+1154,Network Issue,Server is down and users cannot access the application.,Technical,High,Live Chat
+1232,Unable to Login,Server is down and users cannot access the application.,Technical,High,Email
+1228,Website Not Loading,Server is down and users cannot access the application.,Technical,Normal,Email
+1418,Office Timings,Need more information about your services.,General,Normal,Email
+1204,API Error,The application crashes whenever I try to login.,Technical,Normal,Portal
+1127,Password Reset,Password reset link is not working.,Technical,High,Portal
+1330,Resignation,Attendance has been marked incorrectly.,HR,Normal,Email
+1032,Subscription Charged,Please share the invoice for Order #98039.,Billing,High,Portal
+1114,Subscription Charged,"Hello Team, my payment of ₹11922 was deducted but the order is still pending.",Billing,Normal,Live Chat
+1471,Office Timings,What are your office working hours?,General,Normal,Live Chat
+1272,Salary Issue,I have not received my offer letter yet.,HR,High,Email
+1141,Unable to Login,I am getting a database connection error.,Technical,Normal,Live Chat
+1058,Incorrect Bill,"Hello Team, my payment of ₹2253 was deducted but the order is still pending.",Billing,Normal,Portal
+1193,Database Error,I am getting a database connection error.,Technical,Normal,Live Chat
+1025,Billing Issue,"Hello Team, my payment of ₹12330 was deducted but the order is still pending.",Billing,Normal,Live Chat
+1018,Billing Issue,I cancelled my subscription but my refund has not been received.,Billing,Normal,Live Chat
+1266,Joining Date,Please approve my leave request for next week.,HR,Normal,Live Chat
+1067,Invoice Missing,I cancelled my subscription but my refund has not been received.,Billing,Normal,Portal
+1209,Network Issue,The website is not loading since morning.,Technical,Normal,Live Chat
+1480,Business Hours,How can I contact customer support?,General,Normal,Portal
+1095,Incorrect Bill,I cancelled my subscription but my refund has not been received.,Billing,High,Live Chat
+1254,Payslip Required,Attendance has been marked incorrectly.,HR,High,Email
+1267,Salary Issue,Please approve my leave request for next week.,HR,High,Live Chat
+1024,Incorrect Bill,Please share the invoice for Order #48469.,Billing,High,Email
+1223,Password Reset,I am getting a database connection error.,Technical,Normal,Portal
+1262,Payslip Required,I have not received my offer letter yet.,HR,Normal,Email
+1427,Product Information,Need more information about your services.,General,Normal,Portal
+1006,Refund Request,Please share the invoice for Order #30379.,Billing,Normal,Portal
+1117,Refund Request,Please share the invoice for Order #70258.,Billing,Normal,Portal
+1046,Incorrect Bill,I was charged twice for the same transaction.,Billing,High,Email
+1017,Duplicate Payment,I cancelled my subscription but my refund has not been received.,Billing,High,Live Chat
+1463,Product Information,How can I contact customer support?,General,High,Portal
+1358,Offer Letter,Need clarification regarding my salary.,HR,Normal,Email
+1004,Payment Failed,The billing amount seems incorrect. Kindly verify.,Billing,High,Email
+1219,Password Reset,I am getting a database connection error.,Technical,High,Live Chat
+1406,Office Timings,Please provide your contact details.,General,High,Live Chat
+1061,Refund Request,Please share the invoice for Order #10464.,Billing,High,Email
+1111,Incorrect Bill,Please share the invoice for Order #89415.,Billing,Normal,Email
+1319,Salary Issue,Need clarification regarding my salary.,HR,High,Live Chat
+1429,Need Help,What are your office working hours?,General,Normal,Portal
+1030,Billing Issue,"Hello Team, my payment of ₹12961 was deducted but the order is still pending.",Billing,Normal,Email
+1438,General Enquiry,Please provide your contact details.,General,High,Portal
+1472,Need Help,Need more information about your services.,General,High,Portal
+1027,Duplicate Payment,I cancelled my subscription but my refund has not been received.,Billing,Normal,Live Chat
+1008,Incorrect Bill,"Hello Team, my payment of ₹12455 was deducted but the order is still pending.",Billing,Normal,Portal
+1454,Feedback,What are your office working hours?,General,Normal,Email
+1109,Subscription Charged,I cancelled my subscription but my refund has not been received.,Billing,Normal,Email
+1038,Refund Request,I cancelled my subscription but my refund has not been received.,Billing,High,Portal
+1158,Application Crash,Server is down and users cannot access the application.,Technical,Normal,Portal
+1490,Office Timings,Please provide your contact details.,General,High,Portal
+1119,Refund Request,The billing amount seems incorrect. Kindly verify.,Billing,Normal,Email
+1115,Payment Failed,Please share the invoice for Order #66148.,Billing,High,Email
+1176,Server Down,Password reset link is not working.,Technical,Normal,Email
+1374,Attendance Correction,I have not received my offer letter yet.,HR,High,Portal
+1182,Password Reset,The application crashes whenever I try to login.,Technical,High,Portal
+1145,Website Not Loading,Server is down and users cannot access the application.,Technical,Normal,Live Chat
+1370,Leave Request,Kindly send my payslip for this month.,HR,High,Live Chat
+1391,Need Help,How can I contact customer support?,General,Normal,Email
+1196,API Error,The website is not loading since morning.,Technical,High,Live Chat
+1405,Feedback,Can you share your company address?,General,High,Live Chat
+1276,Offer Letter,Kindly send my payslip for this month.,HR,High,Email
+1455,Feedback,Need more information about your services.,General,Normal,Live Chat
+1142,Database Error,Server is down and users cannot access the application.,Technical,Normal,Email
+1366,Leave Request,Need clarification regarding my salary.,HR,High,Email
+1068,Payment Failed,I cancelled my subscription but my refund has not been received.,Billing,High,Live Chat
+1211,Website Not Loading,The website is not loading since morning.,Technical,Normal,Live Chat
+1169,Website Not Loading,Server is down and users cannot access the application.,Technical,High,Email
+1494,Product Information,What are your office working hours?,General,High,Portal
+1376,Product Information,Need more information about your services.,General,Normal,Portal
+1401,Contact Information,Please provide your contact details.,General,High,Email
+1273,Payslip Required,I have not received my offer letter yet.,HR,High,Email
+1110,Invoice Missing,I was charged twice for the same transaction.,Billing,Normal,Portal
+1249,API Error,The application crashes whenever I try to login.,Technical,High,Email
+1146,Database Error,Server is down and users cannot access the application.,Technical,Normal,Portal
+1093,Incorrect Bill,I cancelled my subscription but my refund has not been received.,Billing,High,Live Chat
+1153,Website Not Loading,I am getting a database connection error.,Technical,High,Live Chat
+1368,Joining Date,I have not received my offer letter yet.,HR,High,Live Chat
+1468,Product Information,How can I contact customer support?,General,Normal,Email
+1084,Billing Issue,I cancelled my subscription but my refund has not been received.,Billing,High,Live Chat
+1246,Database Error,Server is down and users cannot access the application.,Technical,High,Portal
+1166,Network Issue,The website is not loading since morning.,Technical,Normal,Portal
+1164,Database Error,The application crashes whenever I try to login.,Technical,Normal,Portal
+1200,Website Not Loading,I am getting a database connection error.,Technical,High,Live Chat
+1229,Application Crash,The application crashes whenever I try to login.,Technical,High,Email
+1075,Refund Request,Please share the invoice for Order #51114.,Billing,High,Live Chat
+1479,Product Information,How can I contact customer support?,General,High,Live Chat
+1359,Leave Request,Kindly send my payslip for this month.,HR,High,Live Chat
+1251,Resignation,I have not received my offer letter yet.,HR,Normal,Portal
+1120,Incorrect Bill,I was charged twice for the same transaction.,Billing,High,Portal
+1311,Holiday List,I have not received my offer letter yet.,HR,High,Email
+1300,Payslip Required,Need clarification regarding my salary.,HR,Normal,Email
+1256,Offer Letter,I have not received my offer letter yet.,HR,Normal,Email
+1355,Attendance Correction,Please approve my leave request for next week.,HR,High,Live Chat
+1400,Feedback,Please provide your contact details.,General,Normal,Email
+1226,Network Issue,The website is not loading since morning.,Technical,High,Portal
+1354,Leave Request,Attendance has been marked incorrectly.,HR,Normal,Portal
+1235,Database Error,Password reset link is not working.,Technical,Normal,Live Chat
+1383,Feedback,Need more information about your services.,General,High,Portal
+1275,Attendance Correction,Kindly send my payslip for this month.,HR,High,Email
+1037,Invoice Missing,The billing amount seems incorrect. Kindly verify.,Billing,Normal,Portal
+1197,Website Not Loading,The website is not loading since morning.,Technical,High,Live Chat
+1140,API Error,Password reset link is not working.,Technical,High,Portal
+1365,Joining Date,I have not received my offer letter yet.,HR,Normal,Live Chat
+1245,Website Not Loading,The application crashes whenever I try to login.,Technical,Normal,Email
+1440,Company Address,Need more information about your services.,General,High,Portal
+1287,Resignation,Please approve my leave request for next week.,HR,High,Email
+1060,Incorrect Bill,The billing amount seems incorrect. Kindly verify.,Billing,Normal,Email
+1112,Incorrect Bill,"Hello Team, my payment of ₹9981 was deducted but the order is still pending.",Billing,High,Live Chat
+1090,Billing Issue,"Hello Team, my payment of ₹9632 was deducted but the order is still pending.",Billing,Normal,Portal
+1437,Office Timings,Please provide your contact details.,General,Normal,Email
+1007,Refund Pending,"Hello Team, my payment of ₹6724 was deducted but the order is still pending.",Billing,High,Portal
+1361,Holiday List,Kindly send my payslip for this month.,HR,High,Live Chat
+1347,Resignation,Kindly send my payslip for this month.,HR,High,Live Chat
+1339,Leave Request,Attendance has been marked incorrectly.,HR,High,Live Chat
+1159,Unable to Login,I am getting a database connection error.,Technical,Normal,Email
+1151,Application Crash,I am getting a database connection error.,Technical,High,Live Chat
+1178,Application Crash,Server is down and users cannot access the application.,Technical,High,Portal
+1394,Office Timings,How can I contact customer support?,General,High,Portal
+1185,Server Down,The website is not loading since morning.,Technical,High,Portal
+1450,Company Address,Please provide your contact details.,General,High,Portal
+1011,Refund Pending,I cancelled my subscription but my refund has not been received.,Billing,High,Portal
+1381,Contact Information,Need more information about your services.,General,Normal,Live Chat
+1104,Refund Request,I cancelled my subscription but my refund has not been received.,Billing,Normal,Email
+1082,Payment Failed,Please share the invoice for Order #37549.,Billing,High,Live Chat
+1039,Refund Request,I was charged twice for the same transaction.,Billing,Normal,Email
+1315,Salary Issue,Need clarification regarding my salary.,HR,Normal,Email
+1168,API Error,Server is down and users cannot access the application.,Technical,High,Email
+1470,Contact Information,Can you share your company address?,General,High,Email
+1297,Payslip Required,Need clarification regarding my salary.,HR,Normal,Portal
+1475,Feedback,Can you share your company address?,General,High,Portal
+1199,API Error,I am getting a database connection error.,Technical,High,Email
+1298,Joining Date,Please approve my leave request for next week.,HR,High,Portal
+1417,Office Timings,Can you share your company address?,General,Normal,Live Chat
+1147,Application Crash,I am getting a database connection error.,Technical,Normal,Portal
+1393,Contact Information,Can you share your company address?,General,High,Email
+1148,Server Down,The application crashes whenever I try to login.,Technical,High,Live Chat
+1448,Office Timings,Please provide your contact details.,General,High,Email
+1288,Resignation,Please approve my leave request for next week.,HR,Normal,Portal
+1124,Subscription Charged,I was charged twice for the same transaction.,Billing,Normal,Live Chat
+1369,Offer Letter,Attendance has been marked incorrectly.,HR,High,Live Chat
+1097,Invoice Missing,I cancelled my subscription but my refund has not been received.,Billing,High,Portal
+1144,Network Issue,I am getting a database connection error.,Technical,Normal,Email
+1240,Password Reset,I am getting a database connection error.,Technical,Normal,Email
+1443,Office Timings,What are your office working hours?,General,Normal,Email
+1098,Billing Issue,I was charged twice for the same transaction.,Billing,High,Portal
+1408,Contact Information,What are your office working hours?,General,Normal,Live Chat
+1123,Incorrect Bill,The billing amount seems incorrect. Kindly verify.,Billing,Normal,Email
+1184,Server Down,The application crashes whenever I try to login.,Technical,Normal,Portal
+1203,Database Error,The application crashes whenever I try to login.,Technical,High,Live Chat
+1247,Password Reset,The application crashes whenever I try to login.,Technical,High,Email
+1306,Holiday List,Please approve my leave request for next week.,HR,High,Portal
+1299,Leave Request,I have not received my offer letter yet.,HR,High,Email
+1352,Joining Date,I have not received my offer letter yet.,HR,Normal,Portal
+1387,General Enquiry,Please provide your contact details.,General,High,Portal
+1396,Need Help,Can you share your company address?,General,Normal,Portal
+1285,Payslip Required,Kindly send my payslip for this month.,HR,Normal,Portal
+1126,Database Error,Password reset link is not working.,Technical,High,Live Chat
+1303,Joining Date,Please approve my leave request for next week.,HR,Normal,Email
+1224,Password Reset,Password reset link is not working.,Technical,High,Portal
+1419,Office Timings,Need more information about your services.,General,Normal,Email
+1220,Database Error,I am getting a database connection error.,Technical,High,Portal
+1130,Server Down,The website is not loading since morning.,Technical,High,Live Chat
+1421,Need Help,Can you share your company address?,General,Normal,Portal
+1290,Attendance Correction,Attendance has been marked incorrectly.,HR,High,Portal
+1445,Business Hours,What are your office working hours?,General,High,Portal
+1377,Office Timings,How can I contact customer support?,General,High,Portal
+1292,Resignation,Please approve my leave request for next week.,HR,Normal,Portal
+1356,Attendance Correction,Need clarification regarding my salary.,HR,Normal,Email
+1295,Offer Letter,Kindly send my payslip for this month.,HR,Normal,Live Chat
+1397,General Enquiry,Can you share your company address?,General,High,Live Chat
+1341,Joining Date,Please approve my leave request for next week.,HR,Normal,Portal
+1113,Refund Request,I was charged twice for the same transaction.,Billing,Normal,Live Chat
+1180,Website Not Loading,The website is not loading since morning.,Technical,High,Email
+1308,Holiday List,Kindly send my payslip for this month.,HR,High,Live Chat
+1433,Company Address,Need more information about your services.,General,High,Portal
+1488,Product Information,Please provide your contact details.,General,Normal,Portal
+1482,Feedback,Please provide your contact details.,General,High,Portal
+1423,Product Information,Please provide your contact details.,General,High,Live Chat
+1234,Password Reset,I am getting a database connection error.,Technical,High,Live Chat
+1312,Joining Date,I have not received my offer letter yet.,HR,High,Live Chat
+1165,Website Not Loading,I am getting a database connection error.,Technical,High,Portal
+1137,Application Crash,I am getting a database connection error.,Technical,Normal,Email
+1198,Password Reset,The application crashes whenever I try to login.,Technical,Normal,Email
+1259,Joining Date,Need clarification regarding my salary.,HR,High,Live Chat
+1233,Database Error,The website is not loading since morning.,Technical,Normal,Email
+1116,Duplicate Payment,"Hello Team, my payment of ₹14419 was deducted but the order is still pending.",Billing,High,Email
+1121,Payment Failed,I was charged twice for the same transaction.,Billing,Normal,Portal
+1350,Payslip Required,Attendance has been marked incorrectly.,HR,Normal,Email
+1225,API Error,The application crashes whenever I try to login.,Technical,Normal,Portal
+1403,Business Hours,Can you share your company address?,General,High,Email
+1398,Contact Information,How can I contact customer support?,General,Normal,Email
+1128,Password Reset,Server is down and users cannot access the application.,Technical,High,Portal
+1286,Payslip Required,Kindly send my payslip for this month.,HR,High,Email
+1412,Business Hours,How can I contact customer support?,General,High,Live Chat
+1108,Subscription Charged,"Hello Team, my payment of ₹13299 was deducted but the order is still pending.",Billing,Normal,Email
+1371,Joining Date,Need clarification regarding my salary.,HR,Normal,Portal
+1326,Salary Issue,Kindly send my payslip for this month.,HR,Normal,Email
+1134,Network Issue,The application crashes whenever I try to login.,Technical,High,Portal
+1453,Office Timings,What are your office working hours?,General,High,Live Chat
+1045,Refund Request,"Hello Team, my payment of ₹3197 was deducted but the order is still pending.",Billing,Normal,Portal
+1461,Contact Information,Please provide your contact details.,General,Normal,Email
+1066,Refund Pending,Please share the invoice for Order #83385.,Billing,High,Live Chat
+1284,Joining Date,I have not received my offer letter yet.,HR,Normal,Portal
+1086,Subscription Charged,I cancelled my subscription but my refund has not been received.,Billing,Normal,Portal
+1243,Website Not Loading,The website is not loading since morning.,Technical,Normal,Portal
+1187,Server Down,The application crashes whenever I try to login.,Technical,High,Live Chat
+1384,General Enquiry,What are your office working hours?,General,Normal,Live Chat
+1160,Password Reset,I am getting a database connection error.,Technical,High,Email
+1013,Incorrect Bill,"Hello Team, my payment of ₹10480 was deducted but the order is still pending.",Billing,Normal,Live Chat
+1036,Refund Pending,The billing amount seems incorrect. Kindly verify.,Billing,High,Email
+1029,Subscription Charged,"Hello Team, my payment of ₹4446 was deducted but the order is still pending.",Billing,Normal,Email
+1171,API Error,Password reset link is not working.,Technical,Normal,Live Chat
+1143,Server Down,I am getting a database connection error.,Technical,Normal,Portal
+1399,Business Hours,Need more information about your services.,General,High,Portal
+1343,Salary Issue,I have not received my offer letter yet.,HR,High,Portal
+1222,Application Crash,Password reset link is not working.,Technical,Normal,Email
+1096,Refund Pending,I cancelled my subscription but my refund has not been received.,Billing,High,Live Chat
+1052,Subscription Charged,Please share the invoice for Order #44814.,Billing,High,Email
+1241,Server Down,I am getting a database connection error.,Technical,Normal,Portal
+1485,General Enquiry,What are your office working hours?,General,High,Email
+1379,General Enquiry,Can you share your company address?,General,Normal,Email
+1179,Network Issue,I am getting a database connection error.,Technical,Normal,Email
+1042,Incorrect Bill,I was charged twice for the same transaction.,Billing,High,Live Chat
+1499,Business Hours,How can I contact customer support?,General,High,Email
+1422,General Enquiry,How can I contact customer support?,General,Normal,Live Chat
+1207,Server Down,Password reset link is not working.,Technical,High,Live Chat
+1283,Offer Letter,Need clarification regarding my salary.,HR,Normal,Live Chat
+1255,Holiday List,Kindly send my payslip for this month.,HR,Normal,Live Chat
+1413,Business Hours,Can you share your company address?,General,Normal,Portal
+1005,Billing Issue,The billing amount seems incorrect. Kindly verify.,Billing,Normal,Live Chat
+1257,Payslip Required,Kindly send my payslip for this month.,HR,Normal,Live Chat
+1449,Product Information,Can you share your company address?,General,Normal,Email
+1101,Subscription Charged,Please share the invoice for Order #73654.,Billing,Normal,Portal
+1227,API Error,The application crashes whenever I try to login.,Technical,High,Live Chat
+1430,Product Information,Please provide your contact details.,General,Normal,Email
+1214,Database Error,The website is not loading since morning.,Technical,Normal,Portal
+1172,API Error,The website is not loading since morning.,Technical,Normal,Portal
+1099,Payment Failed,The billing amount seems incorrect. Kindly verify.,Billing,Normal,Portal
+1293,Payslip Required,Please approve my leave request for next week.,HR,High,Email
+1216,Unable to Login,The website is not loading since morning.,Technical,Normal,Live Chat
+1062,Incorrect Bill,I cancelled my subscription but my refund has not been received.,Billing,High,Live Chat
+1048,Duplicate Payment,"Hello Team, my payment of ₹1321 was deducted but the order is still pending.",Billing,High,Live Chat
+1033,Billing Issue,"Hello Team, my payment of ₹4561 was deducted but the order is still pending.",Billing,Normal,Portal
+1268,Salary Issue,I have not received my offer letter yet.,HR,High,Portal
+1328,Holiday List,Attendance has been marked incorrectly.,HR,Normal,Live Chat
+1201,Website Not Loading,I am getting a database connection error.,Technical,High,Email
+1447,Feedback,What are your office working hours?,General,High,Email
+1028,Duplicate Payment,I was charged twice for the same transaction.,Billing,High,Portal
+1425,General Enquiry,Need more information about your services.,General,High,Email
+1231,Application Crash,Password reset link is not working.,Technical,High,Live Chat
+1261,Attendance Correction,I have not received my offer letter yet.,HR,High,Live Chat
+1289,Payslip Required,I have not received my offer letter yet.,HR,Normal,Email
+1163,Server Down,Server is down and users cannot access the application.,Technical,High,Email
+1426,Company Address,How can I contact customer support?,General,High,Email
+1139,API Error,I am getting a database connection error.,Technical,Normal,Live Chat
+1063,Payment Failed,"Hello Team, my payment of ₹1732 was deducted but the order is still pending.",Billing,Normal,Portal
+1136,Network Issue,The application crashes whenever I try to login.,Technical,High,Portal
+1129,Website Not Loading,The website is not loading since morning.,Technical,High,Email
+1477,Company Address,Need more information about your services.,General,Normal,Portal
+1009,Refund Pending,The billing amount seems incorrect. Kindly verify.,Billing,High,Live Chat
+1327,Offer Letter,Kindly send my payslip for this month.,HR,Normal,Portal
+1464,Feedback,Can you share your company address?,General,High,Portal
+1065,Payment Failed,Please share the invoice for Order #99399.,Billing,Normal,Live Chat
+1301,Holiday List,Need clarification regarding my salary.,HR,Normal,Live Chat
+1015,Subscription Charged,Please share the invoice for Order #17331.,Billing,Normal,Email
+1157,Network Issue,Server is down and users cannot access the application.,Technical,Normal,Portal
+1041,Subscription Charged,The billing amount seems incorrect. Kindly verify.,Billing,High,Email
+1380,Office Timings,Please provide your contact details.,General,Normal,Email
+1469,General Enquiry,Need more information about your services.,General,Normal,Email
+1404,Company Address,Please provide your contact details.,General,High,Email
+1217,Password Reset,The application crashes whenever I try to login.,Technical,Normal,Email
+1280,Attendance Correction,Attendance has been marked incorrectly.,HR,Normal,Portal
+1435,General Enquiry,How can I contact customer support?,General,High,Email
+1431,Company Address,Need more information about your services.,General,High,Email
+1338,Attendance Correction,Kindly send my payslip for this month.,HR,High,Live Chat
+1237,Password Reset,The application crashes whenever I try to login.,Technical,High,Email
+1208,API Error,Server is down and users cannot access the application.,Technical,Normal,Portal
+1213,Server Down,I am getting a database connection error.,Technical,Normal,Live Chat
+1296,Holiday List,Kindly send my payslip for this month.,HR,Normal,Live Chat
+1458,Need Help,What are your office working hours?,General,Normal,Live Chat
+1252,Salary Issue,Need clarification regarding my salary.,HR,Normal,Portal
+1489,Contact Information,What are your office working hours?,General,High,Email
+1487,Product Information,Need more information about your services.,General,High,Live Chat
+1304,Leave Request,I have not received my offer letter yet.,HR,High,Live Chat
+1351,Holiday List,Please approve my leave request for next week.,HR,High,Live Chat
+1270,Holiday List,Please approve my leave request for next week.,HR,High,Portal
+1202,Database Error,Password reset link is not working.,Technical,High,Live Chat
+1162,Network Issue,The application crashes whenever I try to login.,Technical,Normal,Live Chat
+1044,Subscription Charged,I cancelled my subscription but my refund has not been received.,Billing,High,Email
+1218,API Error,I am getting a database connection error.,Technical,High,Portal
+1402,Contact Information,What are your office working hours?,General,Normal,Live Chat
+1191,Unable to Login,I am getting a database connection error.,Technical,Normal,Live Chat
+1310,Salary Issue,Need clarification regarding my salary.,HR,Normal,Email
+1260,Holiday List,Kindly send my payslip for this month.,HR,High,Portal
+1106,Duplicate Payment,I was charged twice for the same transaction.,Billing,High,Email
+1054,Refund Pending,"Hello Team, my payment of ₹9308 was deducted but the order is still pending.",Billing,High,Email
+1390,Feedback,How can I contact customer support?,General,Normal,Live Chat
+1002,Invoice Missing,"Hello Team, my payment of ₹11587 was deducted but the order is still pending.",Billing,Normal,Live Chat
+1442,Business Hours,Please provide your contact details.,General,Normal,Live Chat
+1483,General Enquiry,Need more information about your services.,General,Normal,Live Chat
+1050,Refund Pending,I cancelled my subscription but my refund has not been received.,Billing,Normal,Live Chat
+1420,Business Hours,Please provide your contact details.,General,High,Live Chat
+1081,Refund Request,I cancelled my subscription but my refund has not been received.,Billing,High,Portal
+1206,Network Issue,Server is down and users cannot access the application.,Technical,High,Live Chat
+1035,Refund Pending,"Hello Team, my payment of ₹4250 was deducted but the order is still pending.",Billing,Normal,Portal
+1264,Resignation,Attendance has been marked incorrectly.,HR,Normal,Portal
+1428,Company Address,How can I contact customer support?,General,Normal,Portal
+1367,Offer Letter,Please approve my leave request for next week.,HR,Normal,Email
+1092,Refund Request,The billing amount seems incorrect. Kindly verify.,Billing,High,Portal
+1340,Attendance Correction,Attendance has been marked incorrectly.,HR,High,Portal
+1474,Product Information,Can you share your company address?,General,High,Portal
+1053,Incorrect Bill,I was charged twice for the same transaction.,Billing,Normal,Portal
+1346,Salary Issue,Please approve my leave request for next week.,HR,High,Live Chat
+1265,Offer Letter,I have not received my offer letter yet.,HR,Normal,Email
+1242,Network Issue,Password reset link is not working.,Technical,High,Portal
+1014,Subscription Charged,I cancelled my subscription but my refund has not been received.,Billing,High,Live Chat
+1316,Payslip Required,Kindly send my payslip for this month.,HR,High,Portal
+1089,Payment Failed,"Hello Team, my payment of ₹13253 was deducted but the order is still pending.",Billing,Normal,Email
+1388,Feedback,Please provide your contact details.,General,Normal,Live Chat
+1274,Payslip Required,Attendance has been marked incorrectly.,HR,Normal,Portal
+1167,Database Error,I am getting a database connection error.,Technical,Normal,Portal
+1329,Payslip Required,Please approve my leave request for next week.,HR,High,Live Chat
+1493,Business Hours,How can I contact customer support?,General,Normal,Portal
+1135,Network Issue,Password reset link is not working.,Technical,Normal,Portal
+1307,Payslip Required,I have not received my offer letter yet.,HR,High,Portal
+1481,Need Help,Can you share your company address?,General,High,Live Chat
+1320,Attendance Correction,Kindly send my payslip for this month.,HR,Normal,Portal
+1244,API Error,The application crashes whenever I try to login.,Technical,High,Live Chat
+1055,Duplicate Payment,"Hello Team, my payment of ₹14905 was deducted but the order is still pending.",Billing,High,Portal
+1364,Payslip Required,Attendance has been marked incorrectly.,HR,Normal,Live Chat
+1051,Payment Failed,The billing amount seems incorrect. Kindly verify.,Billing,High,Portal
+1457,Office Timings,What are your office working hours?,General,Normal,Email
+1175,Network Issue,The application crashes whenever I try to login.,Technical,Normal,Live Chat
+1446,Office Timings,Please provide your contact details.,General,High,Live Chat
+1190,Website Not Loading,Server is down and users cannot access the application.,Technical,High,Portal
+1497,General Enquiry,What are your office working hours?,General,Normal,Portal
+1188,API Error,Server is down and users cannot access the application.,Technical,Normal,Portal
+1170,Network Issue,I am getting a database connection error.,Technical,High,Live Chat
+1059,Incorrect Bill,The billing amount seems incorrect. Kindly verify.,Billing,Normal,Live Chat
+1049,Invoice Missing,"Hello Team, my payment of ₹8820 was deducted but the order is still pending.",Billing,Normal,Email
+1345,Offer Letter,Attendance has been marked incorrectly.,HR,High,Email
+1236,Website Not Loading,The application crashes whenever I try to login.,Technical,High,Portal
+1253,Payslip Required,Kindly send my payslip for this month.,HR,High,Live Chat
+1022,Refund Pending,I was charged twice for the same transaction.,Billing,High,Live Chat
+1314,Resignation,I have not received my offer letter yet.,HR,Normal,Email
+1460,Product Information,Please provide your contact details.,General,Normal,Live Chat
+1161,Database Error,Server is down and users cannot access the application.,Technical,High,Portal
+1277,Leave Request,I have not received my offer letter yet.,HR,Normal,Live Chat
+1444,Product Information,Can you share your company address?,General,Normal,Email
+1192,Network Issue,Server is down and users cannot access the application.,Technical,High,Email
+1386,Feedback,Can you share your company address?,General,Normal,Email
+1294,Payslip Required,Attendance has been marked incorrectly.,HR,Normal,Live Chat
+1414,Feedback,Please provide your contact details.,General,High,Email
+1344,Salary Issue,I have not received my offer letter yet.,HR,Normal,Portal
+1258,Salary Issue,Please approve my leave request for next week.,HR,High,Portal
+1309,Attendance Correction,Please approve my leave request for next week.,HR,Normal,Portal
+1150,API Error,Server is down and users cannot access the application.,Technical,High,Portal
+1131,Website Not Loading,The application crashes whenever I try to login.,Technical,High,Email
+1152,Website Not Loading,The application crashes whenever I try to login.,Technical,Normal,Live Chat
+1360,Joining Date,Kindly send my payslip for this month.,HR,Normal,Portal
+1100,Incorrect Bill,I was charged twice for the same transaction.,Billing,Normal,Portal
+1373,Joining Date,Kindly send my payslip for this month.,HR,High,Email
+1088,Refund Request,I was charged twice for the same transaction.,Billing,Normal,Live Chat
+1459,Product Information,What are your office working hours?,General,Normal,Live Chat
+1331,Holiday List,Please approve my leave request for next week.,HR,High,Email
+1215,Server Down,The website is not loading since morning.,Technical,Normal,Email
+1467,Business Hours,Need more information about your services.,General,Normal,Live Chat
+1122,Subscription Charged,Please share the invoice for Order #43862.,Billing,High,Portal
+1500,Product Information,Can you share your company address?,General,High,Portal
+1021,Refund Pending,I cancelled my subscription but my refund has not been received.,Billing,High,Live Chat
+1189,Network Issue,The application crashes whenever I try to login.,Technical,High,Live Chat
+1072,Duplicate Payment,Please share the invoice for Order #19099.,Billing,High,Portal
+1107,Billing Issue,"Hello Team, my payment of ₹12772 was deducted but the order is still pending.",Billing,Normal,Portal
+1271,Attendance Correction,Need clarification regarding my salary.,HR,High,Email
+1349,Joining Date,Attendance has been marked incorrectly.,HR,High,Email
+1436,Feedback,How can I contact customer support?,General,High,Portal
+1103,Payment Failed,I was charged twice for the same transaction.,Billing,Normal,Email
